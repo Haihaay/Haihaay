@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Haihaay/Haihaay/blob/main/IMG_20250118_063122.png)
-<h2 align="center">Hi hi cutie 👋</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&letterSpacing=.4rem&duration=3000&pause=1000&width=435&lines=Hi+hi+cutie+%F0%9F%91%8B;Welcome+here+)](https://git.io/typing-svg)
 
 <h3 align="center">Im a ... Idk</h3>
 
