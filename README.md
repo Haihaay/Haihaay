@@ -1,3 +1,4 @@
+![Banner](https://github.com/Haihaay/Haihaay/blob/main/IMG_20250118_063122.png)
 <h2 align="center">Hi hi cutie 👋</h2>
 
 <h3 align="center">Im a ... Idk</h3>
