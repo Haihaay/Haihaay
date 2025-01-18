@@ -6,7 +6,8 @@
  - 🌱 I'm a **Beginner**
  - ☕ First time learn in **2024**
  - 💬 Ask me about **Nothing**
- - 😎 I'm a <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=16&pause=1000&color=000000&width=150&lines=Web+Designer" alt="Typing SVG" />
+ - 😎 I'm a 
+ - <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=16&pause=1000&color=000000&width=150&lines=Web+Designer" alt="Typing SVG" />
 
    - ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
 
