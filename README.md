@@ -13,7 +13,7 @@
 </p>
 
 <div>
-<h3 align="center">🔥 My Skills 🔥</h3>
+<h3 align="center">•『♡』• My Skills •『♡』•</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
