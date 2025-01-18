@@ -26,5 +26,7 @@
 
 <div align="center"><a href="#"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></div>
 
+
+<hr/>
 <br/>
 <div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://cdn.discordapp.com/attachments/1086169289242976268/1330146826879500349/Tak_berjudul263_20250118190818.png?ex=678ceb44&is=678b99c4&hm=3767fa0f6cceebf1b895b2d9f7447f7b718fc826bf82b5714a74847b384258db&"></a></div>
