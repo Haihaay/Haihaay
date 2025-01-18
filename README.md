@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Haihaay/Haihaay/blob/main/Tak%20berjudul264_20250118090541.png)
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=34&letterSpacing=.4rem&duration=3000&pause=1000&center=true&width=435&lines=Hi+hi+cutie+%F0%9F%91%8B;Welcome+here+%E3%80%82%E3%80%82%E3%80%82%E3%80%82" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=34&letterSpacing=.4rem&duration=3000&pause=1000&center=true&width=435&lines=Hi+hi+cutie+%F0%9F%91%8B;Welcome+here+%E3%80%82%E3%80%82%E3%80%82%E3%80%82" alt="Typing SVG" /></h1>
 
 ╭──╯ . . .𝐼𝓃𝓉𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃. . . ╰──╮
  - 🌱 I'm a **Beginner**
