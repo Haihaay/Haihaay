@@ -11,8 +11,7 @@
  💬 Ask me about **Nothing**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=24&letterSpacing=.7rem&duration=3000&pause=1000&width=435&lines=%F0%9F%98%8E+I'm+a+Web+Designer+;%F0%9F%98%8E+I'm+a+Web+Developer;%F0%9F%98%8E+I'm+a+Bot+Discord+Developer+;%F0%9F%98%8E+I'm+a+Game+Developer+(soon)" alt="Typing SVG" /></a>
-
- ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
+- ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
 
 
 <p align="left">
