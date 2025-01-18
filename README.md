@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&letterSpacing=.4rem&duration=3000&pause=1000&center=true&width=435&lines=Hi+hi+cutie+%F0%9F%91%8B;Welcome+here+%E3%80%82%E3%80%82%E3%80%82%E3%80%82" alt="Typing SVG" /></h1>
 
-<img align="right" width="200" src="https://cdn.discordapp.com/attachments/1086169289242976268/1330173355927666708/1330160998706970645.gif?ex=678d03f9&is=678bb279&hm=bb7a808e09e06394be099f4846254e5a0407dccfbd3df9acf91d78077698e0f2&">
+<img align="right" width="150" src="https://tenor.com/view/tower-of-fantasy-cobalt-b-tower-of-fantasy-cobalt-tower-of-fantasy-gif-17026799618477327225">
 
 ╭──╯ . . .𝐼𝓃𝓉𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃. . . ╰──╮
 - 🌱 I'm a **Beginner**
