@@ -6,7 +6,7 @@
  - 🌱 I'm a **Beginner**
  - ☕ First time learn in **2024**
  - 💬 Ask me about **Nothing**
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=24&letterSpacing=.7rem&duration=3000&pause=1000&width=435&lines=%E2%80%A2+%F0%9F%98%8E+I'm+a+Web+Designer+;%E2%80%A2+%F0%9F%98%8E+I'm+a+Web+Developer;-+%F0%9F%98%8E+I'm+a+Bot+Discord+Developer+;-+%F0%9F%98%8E+I'm+a+Game+Developer+(soon)" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=30&letterSpacing=.7rem&duration=3000&pause=1000&width=435&lines=%E2%80%A2+%F0%9F%98%8E+I'm+a+Web+Designer+;%E2%80%A2+%F0%9F%98%8E+I'm+a+Web+Developer;-+%F0%9F%98%8E+I'm+a+Bot+Discord+Developer+;-+%F0%9F%98%8E+I'm+a+Game+Developer+(soon)" alt="Typing SVG" /></a>
   ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
 
 
