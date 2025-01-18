@@ -8,10 +8,10 @@
 <p align="left">
 </p>
 
-<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
+<h3 align="center">🔥 My Skills 🔥</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,python" />
   </a>
 </p>
