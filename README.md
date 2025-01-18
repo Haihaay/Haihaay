@@ -8,6 +8,7 @@
 <p align="left">
 </p>
 
+<div>
 <h3 align="center">🔥 My Skills 🔥</h3>
 
 <p align="center">
@@ -15,3 +16,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,python" />
   </a>
 </p>
+</div>
