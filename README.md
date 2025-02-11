@@ -1,4 +1,4 @@
-![Banner](https://github.com/Haihaay/Haihaay/blob/main/Tak%20berjudul268_20250130224240.png) 
+![Banner](https://cdn.discordapp.com/attachments/1085865647566757958/1338859644189282366/Tak_berjudul268_20250211200955.png?ex=67ac9db5&is=67ab4c35&hm=a7f844146ab6cc215946cc51fc645a7654a5ef9e0d146473282bc91d4cf0cbec&) 
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&letterSpacing=.4rem&duration=3000&pause=1000&center=true&width=435&lines=Hi+hi+cutie+%F0%9F%91%8B;Welcome+here+%E3%80%82%E3%80%82%E3%80%82%E3%80%82" alt="Typing SVG" /></h1>
 
