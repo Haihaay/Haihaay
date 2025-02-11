@@ -31,4 +31,4 @@
 
 <hr/>
 <br/>
-<div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://cdn.discordapp.com/attachments/1086169289242976268/1330153318345084991/Tak_berjudul263_20250118193403.png?ex=678cf150&is=678b9fd0&hm=7b67d9337b62afb4587a8c595af00bd2545555da598eada7dce6826332b57672&"></a></div>
+<div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://github.com/Haihaay/Haihaay/blob/main/Tak%20berjudul263.png"></a></div>
