@@ -35,11 +35,14 @@
   <summary>Find me on</summary>
   <ol>
 
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)(discordapp.com/users/1102899938263826482)]
+- ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)(discordapp.com/users/1102899938263826482)
 
 - 2
   </ol>
 </details>
 
 <div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://cdn.discordapp.com/attachments/1085865647566757958/1338818898350444565/Tak_berjudul263.png?ex=67ac77c3&is=67ab2643&hm=22816d99bfceb5e89645ae725fa5fac1b5d7bd81d778ac28432cb361d4bbeb3f&"></a></div>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/1102899938263826482)
+
 
