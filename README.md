@@ -32,7 +32,7 @@
 <hr/>
 
 <details>
-  <summary>Find me on</summary>
+  <summary>`Find me on`</summary>
   <ol>
     <li><a href="#">Discord</a></li>
     <li><a href="#">X</a></li>
