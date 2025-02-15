@@ -34,9 +34,8 @@
 <details>
   <summary>Find me on</summary>
   <ol>
-    <li><a href="#"></a>![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)</li>
-    <li><a href="#">X</a></li>
-    <li><a href="#">Insta</a></li>
+- 1
+- 2
   </ol>
 </details>
 
