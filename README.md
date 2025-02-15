@@ -37,11 +37,15 @@
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/1102899938263826482)
 
-- 2
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Haihay_guys)
   </ol>
 </details>
 
 <div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://cdn.discordapp.com/attachments/1085865647566757958/1338818898350444565/Tak_berjudul263.png?ex=67ac77c3&is=67ab2643&hm=22816d99bfceb5e89645ae725fa5fac1b5d7bd81d778ac28432cb361d4bbeb3f&"></a></div>
 
 
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/technologyhell) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/technologyhell) (https://x.com/technologyhell) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
+
+</div>
 
