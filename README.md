@@ -5,9 +5,9 @@
 <img align="right" width="150" src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-cobalt-b-tower-of-fantasy-cobalt%20(1).gif">
 
 ╭──╯ . . .𝐼𝓃𝓉𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃. . . ╰──╮
-- 🌱 I'm a **Beginner**
-- ☕ First time learn in **2024**
-- 💬 Ask me about **Nothing**
+- 🌱 I'm a `Beginner`
+- ☕ First time learn in `2024`
+- 💬 Ask me about `Nothing`
 - ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
 
 <hr/>
