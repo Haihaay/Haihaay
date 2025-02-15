@@ -35,7 +35,9 @@
   <summary>Find me on</summary>
   <ol>
     - <a href="#">Discord</a>
+
     - <a href="#">X</a>
+
     - <a href="#">Insta</a>
   </ol>
 </details>
