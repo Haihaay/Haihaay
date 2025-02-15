@@ -35,7 +35,7 @@
   <summary>Find me on</summary>
   <ol>
 
-- <a>#</a>
+- ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
 
 - 2
   </ol>
