@@ -46,6 +46,6 @@
   </ol>
 </details>
 
-<div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://cdn.discordapp.com/attachments/1085865647566757958/1338818898350444565/Tak_berjudul263.png?ex=67ac77c3&is=67ab2643&hm=22816d99bfceb5e89645ae725fa5fac1b5d7bd81d778ac28432cb361d4bbeb3f&"></a></div>
+<div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://github.com/Haihaay/Haihaay/blob/main/Tak%20berjudul263_20250215110642.png"></a></div>
 
 
