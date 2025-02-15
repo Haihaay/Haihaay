@@ -30,7 +30,6 @@
 
 
 <hr/>
-<br/>
 
 <details>
   <summary>Find me on</summary>
