@@ -35,7 +35,7 @@
   <summary>Find me on</summary>
   <ol>
 
-- ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+- ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)(discordapp.com/users/1102899938263826482)
 
 - 2
   </ol>
