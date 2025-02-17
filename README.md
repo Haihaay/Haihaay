@@ -31,7 +31,7 @@
 
 <hr/>
 
-<details>
+<details animation: 0.5s ease;>
   <summary>Find me on</summary>
   <ol>
 
