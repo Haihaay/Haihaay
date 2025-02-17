@@ -3,37 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haihaay's Page</title>
-    <style>
-        details {
-            transition: all 0.3s ease-in-out;
-        }
-
-        details[open] > ol {
-            animation: slideDown 0.3s ease-in-out;
-        }
-
-        @keyframes slideDown {
-            from {
-                opacity: 0;
-                transform: translateY(-5px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-    </style>
+    <title>Haihaay's Profile</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <details>
-        <summary>Find me on</summary>
-        <ol>
-            <li><a href="https://discordapp.com/users/1102899938263826482">Discord</a></li>
-            <li><a href="https://x.com/Haihay_guys">X (Twitter)</a></li>
-            <li><a href="#">Instagram</a></li>
-            <li><a href="#">YouTube</a></li>
-        </ol>
-    </details>
+
+    <div class="container">
+        <h1>Hi hi cutie 👋</h1>
+        
+        <details>
+            <summary>Find me on</summary>
+            <ul class="social-links">
+                <li><a href="https://discordapp.com/users/1102899938263826482">
+                    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+                </a></li>
+                <li><a href="https://x.com/Haihay_guys">
+                    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+                </a></li>
+                <li><a href="#">
+                    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+                </a></li>
+                <li><a href="#">
+                    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+                </a></li>
+            </ul>
+        </details>
+
+        <div class="donate">
+            <a href="http://lynk.id/payme/haihaay">
+                <img src="https://github.com/Haihaay/Haihaay/blob/main/Tak%20berjudul263_20250215110642.png" alt="Donate">
+            </a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
 </body>
 </html>
