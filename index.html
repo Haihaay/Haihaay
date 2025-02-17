@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haihaay's Page</title>
+    <style>
+        details {
+            transition: all 0.3s ease-in-out;
+        }
+
+        details[open] > ol {
+            animation: slideDown 0.3s ease-in-out;
+        }
+
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-5px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <details>
+        <summary>Find me on</summary>
+        <ol>
+            <li><a href="https://discordapp.com/users/1102899938263826482">Discord</a></li>
+            <li><a href="https://x.com/Haihay_guys">X (Twitter)</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">YouTube</a></li>
+        </ol>
+    </details>
+</body>
+</html>
