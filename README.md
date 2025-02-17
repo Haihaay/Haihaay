@@ -31,7 +31,7 @@
 
 <hr/>
 
-<details transition: 2s ease-in-out>
+<details>
   <summary>Find me on</summary>
   <ol>
 
