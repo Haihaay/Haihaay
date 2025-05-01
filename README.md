@@ -48,4 +48,12 @@
 
 <div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://github.com/Haihaay/Haihaay/blob/main/Tak%20berjudul263_20250215110642.png"></a></div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haihaay /Haihaay /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haihaay /Haihaay /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Haihaay /Haihaay /output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
