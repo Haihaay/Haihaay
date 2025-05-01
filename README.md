@@ -6,7 +6,7 @@
 
 ╭──╯ . . .𝐼𝓃𝓉𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃. . . ╰──╮
 - 🌱 I'm a `Beginner`
-- <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width="30"/> First time learn in `2024`
+- <img src="https://github.com/Haihaay/Haihaay/blob/main/tumblr_89ae883d6fd6bed81865a4e48b978f06_e3837a08_250.gif%20(1).gif" width="30"/> First time learn in `2024`
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width="30"/> Ask me about `Nothing`
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-tower-of-fantasy-fiona.gif" width="30"/> ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
 
