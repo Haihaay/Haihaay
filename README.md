@@ -7,7 +7,7 @@
 ╭──╯ . . .𝐼𝓃𝓉𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃. . . ╰──╮
 - 🌱 I'm a `Beginner`
 - ☕ First time learn in `2024`
-- <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width"30"/> Ask me about `Nothing`
+ <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width"30"/> Ask me about `Nothing`
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-tower-of-fantasy-fiona.gif" width="30"/> ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
 
 <hr/>
