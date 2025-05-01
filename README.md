@@ -51,7 +51,7 @@
 <hr/>
 </ol>
 
-いっしょにあそびましょう~ ! !
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>いっしょにあそびましょう~ ! !
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haihaay /Haihaay /output/pacman-contribution-graph-dark.svg">
