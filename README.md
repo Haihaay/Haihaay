@@ -8,7 +8,7 @@
 - 🌱 I'm a `Beginner`
 - ☕ First time learn in `2024`
 - 💬 Ask me about `Nothing`
-- <omh src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-tower-of-fantasy-fiona.gif" width="30"/> ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
+- <img src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-tower-of-fantasy-fiona.gif" width="30"/> ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ☽
 
 <hr/>
 <p align="left">
