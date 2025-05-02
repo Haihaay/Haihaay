@@ -1,4 +1,4 @@
-![Banner](https://github.com/Haihaay/Haihaay/blob/main/Tak%20berjudul268.png) 
+![Banner](https://github.com/Haihaay/Haihaay/blob/main/GIF_20250502_070651_684.gif) 
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=3000&pause=300&center=true&width=435&lines=Hi+hi+cutie+.+.+.;Welcome+here+!+(%C2%B4%E2%80%A2+%CF%89+%E2%80%A2%60)%EF%BE%89" alt="Typing SVG" /></h1>
 
