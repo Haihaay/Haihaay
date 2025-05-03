@@ -1,4 +1,4 @@
-![Banner](https://github.com/Haihaay/Haihaay/blob/main/GIF_20250502_072438_650.gif) 
+![Banner](https://github.com/Haihaay/Haihaay/blob/main/GIF_20250502_072438_650%20(1).gif) 
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=3000&pause=300&center=true&width=435&lines=Jangan+lupa+.+.+.;Ngopi+dulu+bang+!+!;(%C2%B4%E2%80%A2+%CF%89+%E2%80%A2%60)%EF%BE%89" alt="Typing SVG" /></h1>
 
